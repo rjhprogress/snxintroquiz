@@ -12,3 +12,10 @@ Google Fonts API
 (currently developing)
 ```
 
+#Fixes
+```
+Git profile created before "main" policy implementation.
+Needed to replace git branch -M main command to git branch -M master
+to push updates.
+
+```
