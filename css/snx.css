@@ -1,0 +1,22 @@
+
+    body,
+    h1 {
+        font-family: "Raleway", sans-serif
+    }
+
+    body,
+    html {
+        height: 100%
+    }
+
+    .bgimg {
+        background-image: url('https://icecube-us-842.icedrive.io/download?p=3wS23w_NCM_IwD.tfeEf5YbEwkrMFCLc7qFY9jTVUhj.IvJDNRUIYSQO.aBV8K_1HnZiiAGiA.9HKQtZS7Pu2zpK_CcOhtQScYQ7JzqqyabAgDUT3maJX3YK.Ix4RJN_H3A3L7H2bHM4thziiwx.Mtuqdq9_k4S7Lk_S0ccD7llyXDGK6Uh8tuBnFQfs1_Fj');
+        min-height: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+
+    a,
+    u {
+        text-decoration: none;
+    }
