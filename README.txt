@@ -8,8 +8,6 @@ https://rjhprogress.github.io/snxintroquiz/
 #Files Include:
 ```
 index.html 
-W3.CSS Framework
-Google Fonts API 
 
 (currently developing)
 ```
@@ -21,3 +19,9 @@ Needed to replace git branch -M main command to git branch -M master
 to push updates.
 
 ```
+
+##Techologies Used
+Google Fonts API 
+Microsoft Windows Paint to change files from .jfif to .jpg
+OptimiZilla
+W3.CSS Framework
