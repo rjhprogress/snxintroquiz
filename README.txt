@@ -24,6 +24,7 @@ Optimized Blueberry.jpg -45%
 ```
 
 ##Techologies Used
+Adobe Illustrator
 Google Fonts API : Raleway Font
 Microsoft Windows Paint to change files from .jfif to .jpg
 OptimiZilla : File Omptimization
