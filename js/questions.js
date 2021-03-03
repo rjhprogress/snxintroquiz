@@ -1,35 +1,35 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: "Commonly used data types DO NOT include:",
-    choices: ["strings", "booleans", "alerts", "numbers"],
-    answer: "alerts"
-  },
-  {
-    title: "The condition in an if / else statement is enclosed within ____.",
-    choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-    answer: "parentheses"
-  },
-  {
-    title: "Arrays in JavaScript can be used to store ____.",
-    choices: [
-      "numbers and strings",
-      "other arrays",
-      "booleans",
-      "all of the above"
-    ],
+    title: "The food additive Maltodextrin has side effects such as:",
+    choices: ["weight gain", "skin irritations", "asthma", "all of the above"],
     answer: "all of the above"
   },
   {
-    title:
-      "String values must be enclosed within ____ when being assigned to variables.",
-    choices: ["commas", "curly brackets", "quotes", "parentheses"],
-    answer: "quotes"
+    title: "Maltodextrin can be found in ____",
+    choices: ["salad dressings", "nutrition bars", "meat substitutes", "all of the above"],
+    answer: "all of the above"
+  },
+  {
+    title: "The digestive system is the organ system responsible for ____.",
+    choices: [
+      "extracting nutrition from consumed food",
+      "your nerves",
+      "building muscle",
+      "hunger"
+    ],
+    answer: "extracting nutrition from consumed food"
   },
   {
     title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-    answer: "console.log"
+      "After food is consumed it enters into your ___",
+    choices: ["blood stream", "sockets", "joints", "mouth"],
+    answer: "blood stream"
+  },
+  {
+    title:
+      "Which foods cause inflammation, joint, and muscle pains in many people",
+    choices: ["Tomatoes", "hot peppers", "potato", "all of the above"],
+    answer: "all of the above"
   }
 ];

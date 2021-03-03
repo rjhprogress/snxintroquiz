@@ -7,8 +7,9 @@ https://rjhprogress.github.io/snxintroquiz/
 
 #Files Include:
 ```
-index.html 
+index.html
 CSS Folder : snx.css
+JS Folder: logic.js, questions.js, scores.js
 
 (currently developing)
 ```
