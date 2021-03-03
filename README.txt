@@ -9,6 +9,7 @@ for correct and incorrect answers.
 #Files Include:
 ```
 index.html
+highscores.html
 CSS Folder : snx.css
 JS Folder: logic.js, questions.js, scores.js
 Sound Effect File: sfx.js
